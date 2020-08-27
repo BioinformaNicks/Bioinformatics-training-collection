@@ -21,10 +21,10 @@ This page contains a curated list of resources for learning bioinformatic tools 
 - [Machine Learning](#Machine-Learning)
 - Bioinformatics Tools
 
-
-# Python
+# Programming
+## Python
 Python is one of the most versatile, powerful and easy-to-use programming languages. It is very well suited for Bioinformatics because of it's versatile light-weight nature, and it's extendability in the form of different (Bioinformatics-related) packages. These packages extend the capabilities of the language, adding new functionality.
-## Python IDE
+### Python IDE
 When learning and applying Python, code should be developed within an Integrated Development Environment (IDE). This is dedicated software for editing code, and for running the code.
 
 Some of the more popular dedicated IDE's include:
@@ -36,7 +36,7 @@ Aside from these options, a recently popular method for editing and running code
 These are different from the above mentioned dedicated IDE's in the sense that these create an interactive 'Notebook' environment in which code can be ran inside separate cells, at separate moments. This is highly recommended for Data Science purposes, and can be an useful tool for (exploratory) data analysis in Bioinformatics.
 This is thus mostly recommended for data analysis, and not for general programming purposes or for project purposes.
 - [Jupyter](https://jupyter.org/)
-## Python Courses
+### Python Courses
 There are numerous sources to learn from, both free and paid. In this section, I will recommend several tutorials or MOOC's (Massive Open Online Courses).
 - Paid
     - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account.
@@ -54,7 +54,7 @@ There are numerous sources to learn from, both free and paid. In this section, I
 
 It is to be noted that although Udemy's courses are mostly paid, these are not directly linked to academic institutions. This is an advantage, as it gives instructors the ability to freely design their own courses instead of being bound to academic regulations for the order and content of teaching. Teachers on Udemy are often from the academia, however, and often have a PhD and experience in the field.
 
-## Python Books
+### Python Books
 In this section, several E-books (or hardcover, depending on your liking) will be listed that could be useful references for learning Python.
 Personally, I prefer online courses for learning and having books as quick references for looking things up quickly.
 It is worth noting that the [Humble Bundle](https://www.humblebundle.com/) periodically has a Programming E-books bundle available for low pricing. These bundles often include books from reputable publishers and authors such as O'Reilly or Wiley. These bundles can include e-books for every programming language, or they can be language-specific.
@@ -64,7 +64,7 @@ It is worth noting that the [Humble Bundle](https://www.humblebundle.com/) perio
 - [Learning Python](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
 - [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
 
-## Python Packages
+### Python Packages
 These packages extend the capabilities of the language, adding new functionality.
 In this section, I will first sum up some of the more specific and useful bioinformatics-related packages, and then link to a general list of great packages.
 
@@ -79,10 +79,10 @@ In this section, I will first sum up some of the more specific and useful bioinf
     - [Awesome Python Packages](https://github.com/vinta/awesome-python#readme)
 
 
-# R
+## R
 R is a language developed for statistical computation and graphical visualisation, although it is currently being expanded into a more versatile programming language.
 It is gaining popularity in Bioinformatics due to it's capabilities for data science.
-## R IDE
+### R IDE
 When learning and applying R, code should be developed within an Integrated Development Environment (IDE). This is dedicated software for editing code, and for running the code.
 
 It is to be noted here that RStudio is the only recommended dedicated IDE since it's capabilities are enormous, and the team backing it is incredibly good.
@@ -90,7 +90,7 @@ It is, however, possible to use R in Jupyter Notebooks by installing the IRKerne
 - [RStudio](https://rstudio.com/)
 - [Jupyer](https://jupyter.org/)
 - [IRKernel](https://github.com/IRkernel/IRkernel)
-## R Courses
+### R Courses
 There are numerous sources to learn from, both free and paid. In this section, I will recommend several tutorials or MOOC's (Massive Open Online Courses).
 
 - Paid
@@ -107,7 +107,7 @@ There are numerous sources to learn from, both free and paid. In this section, I
         - [Data Science Foundations with R](https://www.coursera.org/specializations/data-science-foundations-r)
         
 It is to be noted that although Udemy's courses are mostly paid, these are not directly linked to academic institutions. This is an advantage over EDx and Coursera, as it gives instructors the ability to freely design their own courses instead of being bound to academic regulations for the order and content of teaching. Teachers on Udemy are often from the academia, however, and often have a PhD and experience in the field.  
-## R Books
+### R Books
 In this section, several E-books (or hardcover, depending on your liking) will be listed that could be useful references for learning R.
 Personally, I prefer online courses for learning and having books as quick references for looking things up quickly.
 It is worth noting that the [Humble Bundle](https://www.humblebundle.com/) periodically has a Programming E-books bundle available for low pricing. These bundles often include books from reputable publishers and authors such as O'Reilly or Wiley. These bundles can include e-books for every programming language, or they can be language-specific.
@@ -117,7 +117,7 @@ Out of these books, the following are highly recommended.
 - [R For Data Science](https://r4ds.had.co.nz/)
 - [Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
 - [Advanced R](https://adv-r.hadley.nz/)
-## R Packages
+### R Packages
 These packages extend the capabilities of the language, adding new functionality.
 In this section, I will first sum up some of the more specific and useful bioinformatics-related packages, and then link to a general list of great packages.
 
@@ -141,13 +141,13 @@ These include:
 - [R Shiny](https://shiny.rstudio.com/) - This R package will allow the usage of R code to develop HTML+CSS+JavaScript elements, while the R code handles the back-end computations.
 - [Django](https://www.djangoproject.com/) - This Python package is similar to Shiny, although it requires more HTML+CSS+JavaScript knowledge. It is, however, more scalable.
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/) - This Python package, although very similar to Django, is more lightweight and easy to use. It is, however, not as scalable.
-## Web Dev IDE
+### Web Dev IDE
 When developing websites, code is written inside a text editor or Integrated Development Environment (IDE).
 - [Atom](https://atom.io/)
 - [VSCode](https://code.visualstudio.com/)
-## Web Dev Courses
+### Web Dev Courses
 
 - Paid
     - Udemy
         - [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-## Web Dev Books
+### Web Dev Books
