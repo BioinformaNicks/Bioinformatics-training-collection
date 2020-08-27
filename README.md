@@ -14,6 +14,9 @@ This page contains a curated list of resources for learning bioinformatic tools 
         - [R Books](#RBooks)
         - [R Packages](#RPackages)
     - [Web Development](#WebDevelopment)
+        - [Web Dev IDE](#WebDevIDE)
+        - [Web Dev Courses](#WebDevCourses)
+        - [Web Dev Books](#WebDevBooks)
     - [Machine Learning](#MachineLearning)
     - [SQL](#SQL)
 - Bioinformatics Tools
@@ -26,3 +29,19 @@ This page contains a curated list of resources for learning bioinformatic tools 
 ## Python Books
 
 ## Python Packages
+
+# R
+## R IDE
+
+## R Courses
+
+## R Books
+
+## R Packages
+
+# Web Development
+## Web Dev IDE
+
+## Web Dev Courses
+
+## Web Dev Books
