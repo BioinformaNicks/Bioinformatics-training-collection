@@ -78,6 +78,8 @@ In this section, I will first sum up some of the more specific and useful bioinf
 
 
 # R
+R is a language developed for statistical computation and graphical visualisation, although it is currently being expanded into a more versatile programming language.
+It is gaining popularity in Bioinformatics due to it's capabilities for data science.
 ## R IDE
 When learning and applying R, code should be developed within an Integrated Development Environment (IDE). This is dedicated software for editing code, and for running the code.
 
@@ -95,15 +97,36 @@ There are numerous sources to learn from, both free and paid. In this section, I
         - [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/)
     - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account.
 - Free
+    - [RStudio Primers](https://rstudio.cloud/learn/primers)
     - [EDX: Data science R Basics](https://www.edx.org/course/data-science-r-basics)
     - Coursera
         - [Genomics Data Science with R](https://www.coursera.org/specializations/genomic-data-science)
         - [Data Science Foundations with R](https://www.coursera.org/specializations/data-science-foundations-r)
         
-It is to be noted that although Udemy's courses are mostly paid, these are not directly linked to academic institutions. This is an advantage, as it gives instructors the ability to freely design their own courses instead of being bound to academic regulations for the order and content of teaching. Teachers on Udemy are often from the academia, however, and often have a PhD and experience in the field.  
+It is to be noted that although Udemy's courses are mostly paid, these are not directly linked to academic institutions. This is an advantage over EDx and Coursera, as it gives instructors the ability to freely design their own courses instead of being bound to academic regulations for the order and content of teaching. Teachers on Udemy are often from the academia, however, and often have a PhD and experience in the field.  
 ## R Books
+In this section, several E-books (or hardcover, depending on your liking) will be listed that could be useful references for learning R.
+Personally, I prefer online courses for learning and having books as quick references for looking things up quickly.
+It is worth noting that the [Humble Bundle](https://www.humblebundle.com/) periodically has a Programming E-books bundle available for low pricing. These bundles often include books from reputable publishers and authors such as O'Reilly or Wiley. These bundles can include e-books for every programming language, or they can be language-specific.
 
+The RStudio team lists several books in their [resources section](https://rstudio.com/resources/books/). 
+Out of these books, the following are highly recommended.
+- [R For Data Science](https://r4ds.had.co.nz/)
+- [Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
+- [Advanced R](https://adv-r.hadley.nz/)
 ## R Packages
+These packages extend the capabilities of the language, adding new functionality.
+In this section, I will first sum up some of the more specific and useful bioinformatics-related packages, and then link to a general list of great packages.
+
+The [Tidyverse](https://www.tidyverse.org/) is a collection of packages that will make R life infinitely easier. These packages provide incredible functions for data science.
+It is maintained by the RStudio team, and the RStudio team provides several [cheatsheets](https://rstudio.com/resources/cheatsheets/) that will make learning the use of these packages easier.
+Although included in the Tidyverse, [GGPlot2](https://ggplot2.tidyverse.org/) deserves a special mention as this provides beautiful data visualisation and graphical plots that can be easily customized. Several extensions to this package exist. For example, [ggsci](https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html) is an important one as it allows for colors used in scientific journals. This is by far not the only one, and I recommend you look up more.
+Additionally, it is worth mentioning that [Reticulate](https://rstudio.github.io/reticulate/), from the same team, provides a package that enables the combination of both R and Python in RStudio.
+
+The [Shiny](https://shiny.rstudio.com/) package provides easy web application development, mostly in dashboard format, without the need for prior HTML/CSS/Javascript knowledge. It will handle every aspect of web development: the layout, structure and graphics using Shiny code, and the computation using R code.
+
+- Compilation of more specific R packages:
+    - [Awesome R](https://github.com/qinwf/awesome-R)
 
 # Web Development
 Web development is split into front-end and back-end sides. The front-end is what is known as the layout and styling, and what the user sees in their browser. The back-end is focused on the computation behind the website.
