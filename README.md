@@ -39,12 +39,14 @@ This is thus mostly recommended for data analysis, and not for general programmi
 ## Python Courses
 There are numerous sources to learn from, both free and paid. In this section, I will recommend several tutorials or MOOC's (Massive Open Online Courses).
 - Paid
+    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account.
     - Udemy (Only buy courses when in sale - which is very often. Courses are in sale about every two-three days, for < 13 euro)
         - [Complete Python Bootcamp: From Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp/) - I highly recommend this one. This is a very extensive course, starting at a slow pace but teaching indepth material. 
         - [Learning Python for Data Analysis and Visualisation](https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/)
         - [Python from A-Z: Python for Data Science](https://www.udemy.com/course/python-coding/)
         - [The Complete Python Course: Learn Python By Doing](https://www.udemy.com/course/the-complete-python-course/)
 - Free 
+    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account.
     - [EDx](https://www.edx.org/learn/python)
     - Coursera
         - [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics)
@@ -97,6 +99,7 @@ There are numerous sources to learn from, both free and paid. In this section, I
         - [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/)
     - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account.
 - Free
+    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account.
     - [RStudio Primers](https://rstudio.cloud/learn/primers)
     - [EDX: Data science R Basics](https://www.edx.org/course/data-science-r-basics)
     - Coursera
