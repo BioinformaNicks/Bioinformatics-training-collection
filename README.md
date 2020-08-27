@@ -17,8 +17,8 @@ This page contains a curated list of resources for learning bioinformatic tools 
         - [Web Dev IDE](#Web-Dev-IDE)
         - [Web Dev Courses](#Web-Dev-Courses)
         - [Web Dev Books](#Web-Dev-Books)
-    - [Machine Learning](#Machine-Learning)
     - [SQL](#SQL)
+- [Machine Learning](#Machine-Learning)
 - Bioinformatics Tools
 
 
