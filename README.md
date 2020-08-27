@@ -65,6 +65,17 @@ It is worth noting that the [Humble Bundle](https://www.humblebundle.com/) perio
 
 ## Python Packages
 These packages extend the capabilities of the language, adding new functionality.
+In this section, I will first sum up some of the more specific and useful bioinformatics-related packages, and then link to a general list of great packages.
+
+- [Numpy](https://numpy.org/) - This package provides a way to handle vectorized data, and lends itself for incredibly fast code for scientific projects.
+- [Pandas](https://pandas.pydata.org/) - This package provides a way to handle tabular data in a very efficient manner.
+- [Scikit-Learn](https://scikit-learn.org/stable/) - This package provides several statistical functions, as well as being the primary package for machine learning purposes.
+- [Statsmodels](https://github.com/statsmodels/statsmodels) - This package provides several important statistical functionality.
+- [Matplotlib](https://matplotlib.org/) - This package provides extensive plotting and visualisation functionality, and it can be beautified with [Seaborn](https://seaborn.pydata.org/).
+- [Biopython](https://biopython.org/) - Biopython is a set of freely available tools for biological computation written in Python by an international team of developers.
+
+- Compilation of more specific Python packages:
+    - [Awesome Python Packages](https://github.com/vinta/awesome-python#readme)
 
 
 # R
