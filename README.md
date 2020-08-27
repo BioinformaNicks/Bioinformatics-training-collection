@@ -4,7 +4,7 @@ A collection of resources for learning about tools and languages related to Bioi
 This page contains a curated list of resources for learning bioinformatic tools and programming languages related to it.
 - Programming
     - [Python](#Python-)
-        - [Python IDE](#Python IDE)
+        - [Python IDE](#PythonIDE)
         - [Python Courses](#PythonCourses)
         - [Python Books](#PythonBooks)
         - [Python Packages](#PythonPackages)
