@@ -72,12 +72,26 @@ These packages extend the capabilities of the language, adding new functionality
 When learning and applying R, code should be developed within an Integrated Development Environment (IDE). This is dedicated software for editing code, and for running the code.
 
 It is to be noted here that RStudio is the only recommended dedicated IDE since it's capabilities are enormous, and the team backing it is incredibly good.
-- [RStudio](https://rstudio.com/)
 It is, however, possible to use R in Jupyter Notebooks by installing the IRKernel.
+- [RStudio](https://rstudio.com/)
 - [Jupyer](https://jupyter.org/)
 - [IRKernel](https://github.com/IRkernel/IRkernel)
 ## R Courses
+There are numerous sources to learn from, both free and paid. In this section, I will recommend several tutorials or MOOC's (Massive Open Online Courses).
+Courses for specific packages will be listed under the R Packages section.
 
+- Paid
+    - Udemy
+        - [R Programming A-Z: R for Data Science](https://www.udemy.com/course/r-programming/)
+        - [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/)
+    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account.
+- Free
+    - [EDX: Data science R Basics](https://www.edx.org/course/data-science-r-basics)
+    - Coursera
+        - [Genomics Data Science with R](https://www.coursera.org/specializations/genomic-data-science)
+        - [Data Science Foundations with R](https://www.coursera.org/specializations/data-science-foundations-r)
+        
+It is to be noted that although Udemy's courses are mostly paid, these are not directly linked to academic institutions. This is an advantage, as it gives instructors the ability to freely design their own courses instead of being bound to academic regulations for the order and content of teaching. Teachers on Udemy are often from the academia, however, and often have a PhD and experience in the field.  
 ## R Books
 
 ## R Packages
