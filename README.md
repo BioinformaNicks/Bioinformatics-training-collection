@@ -106,8 +106,22 @@ It is to be noted that although Udemy's courses are mostly paid, these are not d
 ## R Packages
 
 # Web Development
-## Web Dev IDE
+Web development is split into front-end and back-end sides. The front-end is what is known as the layout and styling, and what the user sees in their browser. The back-end is focused on the computation behind the website.
+For front-end development, HTML and CSS are the most popular languages. HTML gives basic functionality, and provides structure and layout to the website. It is the backbone to the website. CSS, however, performs the styling for the website. Another popular tool is JavaScript, which extends the functionality enormously.
+For back-end development, more general purpose programming languages can be used (R, Python, Java, etc). SQL Databases are often used as well.
 
+Currently, several methods exist to reduce the need for front-end development knowledge by using back-end languages to develop the front-end.
+These include:
+- [R Shiny](https://shiny.rstudio.com/) - This R package will allow the usage of R code to develop HTML+CSS+JavaScript elements, while the R code handles the back-end computations.
+- [Django](https://www.djangoproject.com/) - This Python package is similar to Shiny, although it requires more HTML+CSS+JavaScript knowledge. It is, however, more scalable.
+- [Flask](https://flask.palletsprojects.com/en/1.1.x/) - This Python package, although very similar to Django, is more lightweight and easy to use. It is, however, not as scalable.
+## Web Dev IDE
+When developing websites, code is written inside a text editor or Integrated Development Environment (IDE).
+- [Atom](https://atom.io/)
+- [VSCode](https://code.visualstudio.com/)
 ## Web Dev Courses
 
+- Paid
+    - Udemy
+        - [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 ## Web Dev Books
