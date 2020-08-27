@@ -12,7 +12,7 @@ This page contains a curated list of resources for learning bioinformatic tools 
         - [R IDE](#RIDE)
         - [R Courses](#RCourses)
         - [R Books](#RBooks)
-        - [R Packages](#RPackages)
+        - [R Packages](#R-Packages)
     - [Web Development](#WebDevelopment)
         - [Web Dev IDE](#WebDevIDE)
         - [Web Dev Courses](#WebDevCourses)
