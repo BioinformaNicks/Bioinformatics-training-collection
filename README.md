@@ -38,7 +38,6 @@ This is thus mostly recommended for data analysis, and not for general programmi
 - [Jupyter](https://jupyter.org/)
 ## Python Courses
 There are numerous sources to learn from, both free and paid. In this section, I will recommend several tutorials or MOOC's (Massive Open Online Courses).
-Courses for specific packages will be listed under the Python Packages section.
 - Paid
     - Udemy (Only buy courses when in sale - which is very often. Courses are in sale about every two-three days, for < 13 euro)
         - [Complete Python Bootcamp: From Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp/) - I highly recommend this one. This is a very extensive course, starting at a slow pace but teaching indepth material. 
@@ -89,7 +88,6 @@ It is, however, possible to use R in Jupyter Notebooks by installing the IRKerne
 - [IRKernel](https://github.com/IRkernel/IRkernel)
 ## R Courses
 There are numerous sources to learn from, both free and paid. In this section, I will recommend several tutorials or MOOC's (Massive Open Online Courses).
-Courses for specific packages will be listed under the R Packages section.
 
 - Paid
     - Udemy
