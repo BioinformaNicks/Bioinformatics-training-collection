@@ -86,10 +86,13 @@ In this section, I will first sum up some of the more specific and useful bioinf
 
 
 ## R
-R is a language developed for statistical computation and graphical visualisation, although it is currently being expanded into a more versatile programming language.
+[R](https://www.r-project.org/) is a language developed for statistical computation and graphical visualisation, although it is currently being expanded into a more versatile programming language.
 It is gaining popularity in Bioinformatics due to it's capabilities for data science.
+
+To program using [R](https://www.r-project.org/), you will first need to download an [R](https://www.r-project.org/) distribution and then (preferably) download an Integrated Development Environment (IDE) to write code in. Alternatively, if using [conda](https://docs.conda.io/en/latest/) (see [Environment and package management systems](#Environment-and-package-management-systems)), you can install R on this.
+
 ### R IDE
-When learning and applying R, code should be developed within an Integrated Development Environment (IDE). This is dedicated software for editing code, and for running the code.
+When learning and applying R, code should be developed within an IDE This is dedicated software for editing code, and for running the code.
 
 It is to be noted here that RStudio is the only recommended dedicated IDE since it's capabilities are enormous, and the team backing it is incredibly good.
 
