@@ -23,6 +23,7 @@ This page contains a curated list of resources for learning bioinformatic tools 
 - [Machine Learning](#Machine-Learning)
     - Work in progress 
 - [General Computational Skills](#General-Computational-Skills)
+- [Bioinformatics Tools and Resources](#Bioinformatics-Tools-and-Resources)
 
 # Programming
 ## Python
@@ -78,7 +79,7 @@ In this section, I will first sum up some of the more specific and useful bioinf
 - [Scikit-Learn](https://scikit-learn.org/stable/) - This package provides several statistical functions, as well as being the primary package for machine learning purposes.
 - [Statsmodels](https://github.com/statsmodels/statsmodels) - This package provides several important statistical functionality.
 - [Matplotlib](https://matplotlib.org/) - This package provides extensive plotting and visualisation functionality, and it can be beautified with [Seaborn](https://seaborn.pydata.org/).
-- [Biopython](https://biopython.org/) - Biopython is a set of freely available tools for biological computation written in Python by an international team of developers.
+- [Biopython](https://biopython.org/) - Biopython is a comprehensive set/repository of freely available packages for biological computation written in Python by an international team of developers.
 
 - Compilation of more specific Python packages:
     - [Awesome Python Packages](https://github.com/vinta/awesome-python#readme)
@@ -128,12 +129,14 @@ Out of these books, the following are highly recommended.
 These packages extend the capabilities of the language, adding new functionality.
 In this section, I will first sum up some of the more specific and useful bioinformatics-related packages, and then link to a general list of great packages.
 
-The [Tidyverse](https://www.tidyverse.org/) is a collection of packages that will make R life infinitely easier. These packages provide incredible functions for data science.
+- The [Tidyverse](https://www.tidyverse.org/) is a collection of packages that will make R life infinitely easier. These packages provide incredible functions for data science.
 It is maintained by the RStudio team, and the RStudio team provides several [cheatsheets](https://rstudio.com/resources/cheatsheets/) that will make learning the use of these packages easier.
 Although included in the Tidyverse, [GGPlot2](https://ggplot2.tidyverse.org/) deserves a special mention as this provides beautiful data visualisation and graphical plots that can be easily customized. Several extensions to this package exist. For example, [ggsci](https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html) is an important one as it allows for colors used in scientific journals. This is by far not the only one, and I recommend you look up more.
 Additionally, it is worth mentioning that [Reticulate](https://rstudio.github.io/reticulate/), from the same team, provides a package that enables the combination of both R and Python in RStudio.
-
-The [Shiny](https://shiny.rstudio.com/) package provides easy web application development, mostly in dashboard format, without the need for prior HTML/CSS/Javascript knowledge. It will handle every aspect of web development: the layout, structure and graphics using Shiny code, and the computation using R code.
+- Similar to [Biopython](https://biopython.org/), there is also an extensive repository for open-source computational biology software packages curated by the [Bioconductor](https://www.bioconductor.org/) initiative.
+- [naniar](https://cran.r-project.org/web/packages/naniar/vignettes/getting-started-w-naniar.html). This package is very useful for exploring your data, and checking missingness of your data.
+- [patchwork](https://patchwork.data-imaginist.com/). This package allows combining and arranging separate ggplots in an easy manner.
+- The [Shiny](https://shiny.rstudio.com/) package provides easy web application development, mostly in dashboard format, without the need for prior HTML/CSS/Javascript knowledge. It will handle every aspect of web development: the layout, structure and graphics using Shiny code, and the computation using R code.
 
 - Compilation of more specific R packages:
     - [Awesome R](https://github.com/qinwf/awesome-R)
@@ -204,3 +207,11 @@ The most popular containerization tool is [Docker](https://www.docker.com/).
 Some resources on learning how to use [Docker](https://www.docker.com/) are:
 - [Pieter Moris's Primer on Docker](https://pmoris.github.io/docker-primer/)
 - [Docker Curriculum for Beginners](https://docker-curriculum.com/)
+
+# Bioinformatics Tools and Resources
+While it would be an impossible(!) task to introduce all Bioinformatics tools in this section, I will refer the reader to some tutorials for common Bioinformatics applications.
+
+Resources:
+- [Sandbox.bio](https://sandbox.bio/). This webbrowser-based application lets users interactively learn the use of several common Bioinformatics tools, without requiring an installation.
+- [An Introduction to Applied Bioinformatics](http://readiab.org/introduction.html). This book gives users a brief introduction to Bioinformatics.
+- [A Primer for Computational Biology](https://open.oregonstate.education/computationalbiology/). This book teaches Unix/Linux (Bash), Python and R to Computational Biologists in a very concise manner.
