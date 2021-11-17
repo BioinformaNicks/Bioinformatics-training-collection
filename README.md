@@ -163,7 +163,7 @@ When developing websites using HTML and CSS, code is written inside a text edito
 Aside from just learning how to program, there are a couple of general (often also called DevOps) tools that make the life of a programmer easier. These tools often focus on reproducibility of results, and teach/improve best practices in coding. For example, these tools range from workflow languages that automate input/output across different programming languages, to easy-to-use package management systems.
 
 While this repo will introduce you to several tools and concepts, for further reading I encourage you to take a look at the following resources:
-- [Pieter Moris's Computational Primer](https://pmoris.github.io/computational-skills/#/). This includes several of the topics introduced in [#General-Computational-Skills].
+- [Pieter Moris's Computational Primer](https://pmoris.github.io/computational-skills/#/). This includes several of the topics introduced in (#General-Computational-Skills).
 - [Ming Tommy Tang's Github repo for computational biology](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
 
 ## Project-based workflows
