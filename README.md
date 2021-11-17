@@ -161,3 +161,24 @@ When developing websites using HTML and CSS, code is written inside a text edito
 
 # General Computational Skills
 Aside from just learning how to program, there are a couple of general (often also called DevOps) tools that make the life of a programmer easier. These tools often focus on reproducibility of results, and teach/improve best practices in coding. For example, these tools range from workflow languages that automate input/output across different programming languages, to easy-to-use package management systems.
+
+While this repo will introduce you to several tools and concepts, for further reading I encourage you to take a look at the following resources:
+- [Pieter Moris's Computational Primer](https://pmoris.github.io/computational-skills/#/). This includes several of the topics introduced in [#General-Computational-Skills].
+- [Ming Tommy Tang's Github repo for computational biology](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
+
+## Project-based workflows
+Every coding project will of course be saved in a directory, and often divided into multiple subdirectories. However, unless you structure it properly, it can get quite messy. Luckily, there are several recommendations for optimal project structure. It should be noted, however, that you are of course free to adapt and improvise as you see fit. This is often in your best interest, as this allows you to easily find back important files.
+
+### Recommendations
+- [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
+- [Structuring R Projects](https://www.r-bloggers.com/2018/08/structuring-r-projects/)
+
+### Templates
+- [Data Science Project Template for R](https://community.rstudio.com/t/data-science-project-template-for-r/3230)
+
+## Package management systems
+- [conda](https://docs.conda.io/en/latest/). This is a 'package and environment management system', which basicly means it lets you create 'virtual environments'. This lets you easily switch between versions of installed packages or versions of Python/R/any other supported languagge. In addition, it allows the management of version conflicts (program A might depend on a version of program B, but program C might depend on a different version of program B), by creating two different environments (one where program A and B are installed, one where program B and C are installed). Conda comes in two versions:
+    - [Miniconda](https://docs.conda.io/en/latest/miniconda.html). This is a minimal install, including only the barebones of conda (conda, Python and dependents).
+    - [Anaconda](https://docs.conda.io/projects/conda/en/latest/glossary.html#anaconda-glossary). Anaconda includes conda, Python, several open-source scientific packages that are included in the Anaconda Repository and also the Anaconda Navigator (a Graphical User Interface), enabling you to interact with conda without a command line interface.
+- [renv](https://rstudio.github.io/renv/articles/renv.html). Unlike conda, this is not a system-wide package and environment manager, and also does not include any Python or R distribution. No, renv is specifically focused on being a package dependency manager for the R programming language. Similar to conda, it will create virtual environments, however, it does this only for R on a project-linked manner.
+
