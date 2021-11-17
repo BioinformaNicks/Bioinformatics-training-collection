@@ -27,7 +27,10 @@ This page contains a curated list of resources for learning bioinformatic tools 
 
 # Programming
 ## Python
-Python is one of the most versatile, powerful and easy-to-use programming languages. It is very well suited for Bioinformatics because of it's versatile light-weight nature, and it's extendability in the form of different (Bioinformatics-related) packages. These packages extend the capabilities of the language, adding new functionality.
+[Python](https://www.python.org/) is one of the most versatile, powerful and easy-to-use programming languages. It is very well suited for Bioinformatics because of it's versatile light-weight nature, and it's extendability in the form of different (Bioinformatics-related) packages. These packages extend the capabilities of the language, adding new functionality.
+
+To program using [Python](https://www.python.org/), you will first need to download an [Python](https://www.python.org/) distribution and then (preferably) download an Integrated Development Environment (IDE) to write code in. Alternatively, if using [conda](https://docs.conda.io/en/latest/) (see [Environment and package management systems](#Environment-and-package-management-systems)), you can install [Python](https://www.python.org/) through this.
+
 ### Python IDE
 When learning and applying Python, code should be developed within an Integrated Development Environment (IDE). This is dedicated software for editing code, and for running the code.
 
@@ -89,7 +92,7 @@ In this section, I will first sum up some of the more specific and useful bioinf
 [R](https://www.r-project.org/) is a language developed for statistical computation and graphical visualisation, although it is currently being expanded into a more versatile programming language.
 It is gaining popularity in Bioinformatics due to it's capabilities for data science.
 
-To program using [R](https://www.r-project.org/), you will first need to download an [R](https://www.r-project.org/) distribution and then (preferably) download an Integrated Development Environment (IDE) to write code in. Alternatively, if using [conda](https://docs.conda.io/en/latest/) (see [Environment and package management systems](#Environment-and-package-management-systems)), you can install R on this.
+To program using [R](https://www.r-project.org/), you will first need to download an [R](https://www.r-project.org/) distribution and then (preferably) download an Integrated Development Environment (IDE) to write code in. Alternatively, if using [conda](https://docs.conda.io/en/latest/) (see [Environment and package management systems](#Environment-and-package-management-systems)), you can install R through this.
 
 ### R IDE
 When learning and applying R, code should be developed within an IDE This is dedicated software for editing code, and for running the code.
