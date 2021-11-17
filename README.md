@@ -147,6 +147,34 @@ Additionally, it is worth mentioning that [Reticulate](https://rstudio.github.io
 - Compilation of more specific R packages:
     - [Awesome R](https://github.com/qinwf/awesome-R)
 
+# Bash
+Although some will hate me for this, I usually refer to Bash as both a Unix/Linux terminal and as a 'form' of a programming language, or rather, 'a command language'.
+So first things first: what is a terminal? A terminal, or shell, is a program that takes commands and sends them to the operating system to perform. If you're familiar with Microsoft Windows CMD or PowerShell, this is an example of a shell or terminal, although much less powerful and easy to use as Bash. Now Bash (Bourne Again Shell) is the default terminal shell for most Linux/Unix-based operating systems, and it is very very powerful. There are some alternatives, such as Zsh, which are gaining popularity (due to amazing plugins for it, google it), however bash is still the most commonly used. Most Bioinformatics or Computational Biology programs have been written to be executable on a command line interface (the terminal, or shell), usually often in bash. In addition, bash comes with a lot of pre-installed applications that might be considered command languages by itself as well (awk, sed, for example), making it very powerful. Furthermore, it's functionality is extendable with other software packages.
+
+Most Linux/Unix distributions come pre-installed with bash, and MacOS used to have bash as the default terminal as well, although it switched to Zsh.
+Microsoft Windows, however, is an exception. It does not come pre-installed with bash at all. In fact, until quite recently, users had to find workarounds on using it (Dual booting, for example). Currently, however, the Microsoft-supported [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) feature enables Microsoft Windows users to run a Linux kernel that supports the usage of Bash.
+
+To install Bash on a Microsoft Windows OS, users will be first required to install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install). Next, users will be required to install the [Ubuntu terminal](https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6) from the Microsoft Store. Interested readers can check out this small [guide](https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview). Once Ubuntu is installed, and set up, users are free to use the bash-default Ubuntu terminal.
+
+### Bash Courses
+There are numerous sources to learn from, both free and paid. In this section, I will recommend several tutorials or MOOC's (Massive Open Online Courses).
+- Paid
+    - Udemy (Only buy courses when in sale - which is very often. Courses are in sale about every two-three days, for < 13 euro)
+        - [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects/)
+        - [Linux Administration: The Complete Linux Bootcamp for 2022](https://www.udemy.com/course/master-linux-administration/). This course goes far beyond the required knowledge on bash that is usually necessary for computational biology, but is an exceptional resource for those that want to learn Linux (system) administration.
+    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
+- Free 
+    - [Linuxjourney](https://linuxjourney.com/). This is a small text-based course, and for learning Bash, it is advisable to complete the Grasshopper section
+    - Coursera
+        - [IBM's Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting). It should be noted that this course is offered by IBM, a major computer hardware and software company. This might possibly be one of the better courses out there.
+    - edX
+        - [Introduction to Linux](https://www.edx.org/course/introduction-to-linux)
+        - [Linux Commands & Shell Scripting)[https://www.edx.org/course/linux-commands-shell-scripting]
+        - [Shell Programming - A necessity for all Programmers](https://www.edx.org/course/shell-programming-a-necessity-for-all-programmers)
+     - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
+
+It is to be noted that although Udemy's courses are mostly paid, these are not directly linked to academic institutions. This is an advantage, as it gives instructors the ability to freely design their own courses instead of being bound to academic regulations for the order and content of teaching. Teachers on Udemy are often from the academia, however, and often have a PhD and experience in the field.
+
 # Web Development
 Web development is split into front-end and back-end sides. The front-end is what is known as the layout and styling, and what the user sees in their browser. The back-end is focused on the computation behind the website.
 For front-end development, HTML and CSS are the most popular languages. HTML gives basic functionality, and provides structure and layout to the website. It is the backbone to the website. CSS, however, performs the styling for the website. Another popular tool is JavaScript, which extends the functionality enormously.
