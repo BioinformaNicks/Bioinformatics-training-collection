@@ -22,7 +22,7 @@ This page contains a curated list of resources for learning bioinformatic tools 
         - Work in progress 
 - [Machine Learning](#Machine-Learning)
     - Work in progress 
-- [General Computational Skills](#Computational-Skills)
+- [General Computational Skills](#General-Computational-Skills)
 
 # Programming
 ## Python
