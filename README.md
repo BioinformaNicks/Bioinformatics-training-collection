@@ -63,6 +63,8 @@ It is worth noting that the [Humble Bundle](https://www.humblebundle.com/) perio
 - [Python Cookbook](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/)
 - [Learning Python](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
 - [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
+- [Bioinformatics Programming Using Python](https://www.oreilly.com/library/view/bioinformatics-programming-using/9780596804725/)
+- [Mastering Python for Bioinformatics](https://www.oreilly.com/library/view/mastering-python-for/9781098100872/)
 
 ### Python Packages
 These packages extend the capabilities of the language, adding new functionality.
@@ -86,7 +88,8 @@ It is gaining popularity in Bioinformatics due to it's capabilities for data sci
 When learning and applying R, code should be developed within an Integrated Development Environment (IDE). This is dedicated software for editing code, and for running the code.
 
 It is to be noted here that RStudio is the only recommended dedicated IDE since it's capabilities are enormous, and the team backing it is incredibly good.
-It is, however, possible to use R in Jupyter Notebooks by installing the IRKernel.
+
+It is, however, also possible to use R in Jupyter Notebooks by installing the IRKernel.
 - [RStudio](https://rstudio.com/)
 - [Jupyer](https://jupyter.org/)
 - [IRKernel](https://github.com/IRkernel/IRkernel)
@@ -95,16 +98,16 @@ There are numerous sources to learn from, both free and paid. In this section, I
 
 - Paid
     - Udemy
-        - [R Programming A-Z: R for Data Science](https://www.udemy.com/course/r-programming/)
         - [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/)
+        - [R Programming A-Z: R for Data Science](https://www.udemy.com/course/r-programming/)
     - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account.
 - Free
-    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account.
     - [RStudio Primers](https://rstudio.cloud/learn/primers)
     - [EDX: Data science R Basics](https://www.edx.org/course/data-science-r-basics)
     - Coursera
         - [Genomics Data Science with R](https://www.coursera.org/specializations/genomic-data-science)
         - [Data Science Foundations with R](https://www.coursera.org/specializations/data-science-foundations-r)
+    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. 
         
 It is to be noted that although Udemy's courses are mostly paid, these are not directly linked to academic institutions. This is an advantage over EDx and Coursera, as it gives instructors the ability to freely design their own courses instead of being bound to academic regulations for the order and content of teaching. Teachers on Udemy are often from the academia, however, and often have a PhD and experience in the field.  
 ### R Books
@@ -117,6 +120,7 @@ Out of these books, the following are highly recommended.
 - [R For Data Science](https://r4ds.had.co.nz/)
 - [Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
 - [Advanced R](https://adv-r.hadley.nz/)
+- [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 ### R Packages
 These packages extend the capabilities of the language, adding new functionality.
 In this section, I will first sum up some of the more specific and useful bioinformatics-related packages, and then link to a general list of great packages.
@@ -142,11 +146,11 @@ These include:
 - [Django](https://www.djangoproject.com/) - This Python package is similar to Shiny, although it requires more HTML+CSS+JavaScript knowledge. It is, however, more scalable.
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/) - This Python package, although very similar to Django, is more lightweight and easy to use. It is, however, not as scalable.
 ### Web Dev IDE
-When developing websites, code is written inside a text editor or Integrated Development Environment (IDE).
+When developing websites using HTML and CSS, code is written inside a text editor or Integrated Development Environment (IDE).
 - [Atom](https://atom.io/)
 - [VSCode](https://code.visualstudio.com/)
+- For R Shiny, code can be written in RStudio (see above). Similar for Python, Python webapps can be developed in Python IDE's.
 ### Web Dev Courses
-
 - Paid
     - Udemy
         - [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
