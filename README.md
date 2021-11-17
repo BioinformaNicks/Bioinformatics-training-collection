@@ -29,7 +29,7 @@ This page contains a curated list of resources for learning bioinformatic tools 
 ## Python
 [Python](https://www.python.org/) is one of the most versatile, powerful and easy-to-use programming languages. It is very well suited for Bioinformatics because of it's versatile light-weight nature, and it's extendability in the form of different (Bioinformatics-related) packages. These packages extend the capabilities of the language, adding new functionality.
 
-To program using [Python](https://www.python.org/), you will first need to download an [Python](https://www.python.org/) distribution and then (preferably) download an Integrated Development Environment (IDE) to write code in. Alternatively, if using [conda](https://docs.conda.io/en/latest/) (see [Environment and package management systems](#Environment-and-package-management-systems)), you can install [Python](https://www.python.org/) through this.
+To program using [Python](https://www.python.org/), you will first need to download an [Python](https://www.python.org/) distribution and then (preferably) download an Integrated Development Environment (IDE) to write code in. Alternatively, if using [conda](https://docs.conda.io/en/latest/) (see [Environment and package management systems](#Environment-and-package-management-systems)), [Python](https://www.python.org/) comes pre-installed.
 
 ### Python IDE
 When learning and applying Python, code should be developed within an Integrated Development Environment (IDE). This is dedicated software for editing code, and for running the code.
