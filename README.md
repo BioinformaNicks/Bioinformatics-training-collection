@@ -187,8 +187,17 @@ Have you ever dealt with the problem of updating features in a programming scrip
 
 Although there are multiple version control systems, the most popular one is definitely [Git](https://git-scm.com/). This should not be confused with GitHub (on which this repository is hosted). Git is the version control system, and GitHub is basicly just an online hoster of Git repositories. Think of GitHub as OneDrive or Google Drive, but for Git repositories.
 
-Some resources on learning how to use Git are:
+Some resources on learning how to use [Git](https://git-scm.com/) are:
 - [Short GitHub Git Intro](https://docs.github.com/en/get-started/using-git/about-git)
 - [Pro Git Book hosted on Git website itself](https://git-scm.com/book/en/v2)
 - [Tutorial by Atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 - [Git Gud Primer by Pieter Moris](https://pmoris.github.io/git-gud/#/)
+
+## Containerization
+Crudely, you can think of containerization tools as a mixture between an environment & package management system, and a virtual machine (I hope not to offend anyone with this very crude and non-nuanced definition). Basicly, containerization tools allow you to package (and run) a script (or software tool) in a container (duh). This container is an isolated sandbox that runs on your host (local) operating system (OS). The container will not only contain the application itself, but also all of its dependencies, including a (stripped-down) operating system. There are several benefits to this. Firstly, this enables you to run software without installing it or the dependencies. Next, it also allows you to transfer applications across operating systems, and makes your script or application reproducible on other machines than your own.
+
+The most popular containerization tool is [Docker](https://www.docker.com/).
+
+Some resources on learning how to use [Docker](https://www.docker.com/) are:
+- [Pieter Moris's Primer on Docker](https://pmoris.github.io/docker-primer/)
+- [Docker Curriculum for Beginners](https://docker-curriculum.com/)
