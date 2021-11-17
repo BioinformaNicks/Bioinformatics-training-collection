@@ -35,7 +35,7 @@ Some of the more popular dedicated IDE's include:
 - [VSCode](https://code.visualstudio.com/)
 
 Aside from these options, a recently popular method for editing and running code exists in the form of Jupyter Notebooks, or Jupyter Lab.
-These are different from the above mentioned dedicated IDE's in the sense that these create an interactive 'Notebook' environment in which code can be ran inside separate cells, at separate moments. This is highly recommended for Data Science purposes, and can be an useful tool for (exploratory) data analysis in Bioinformatics.
+These are different from the above mentioned dedicated IDE's in the sense that these create an interactive 'Notebook' environment in which code can be ran inside separate cells, at separate moments. This is highly recommended for Data Science purposes, and can be a useful tool for (exploratory) data analysis in Bioinformatics.
 This is thus mostly recommended for data analysis, and not for general programming purposes or for project purposes.
 - [Jupyter](https://jupyter.org/)
 ### Python Courses
