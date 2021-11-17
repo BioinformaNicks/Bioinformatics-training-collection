@@ -99,7 +99,7 @@ It is, however, also possible to use R in Jupyter Notebooks by installing the IR
 There are numerous sources to learn from, both free and paid. In this section, I will recommend several tutorials or MOOC's (Massive Open Online Courses).
 
 - Paid
-    - Udemy
+    - Udemy (Only buy courses when in sale - which is very often. Courses are in sale about every two-three days, for < 13 euro)
         - [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/)
         - [R Programming A-Z: R for Data Science](https://www.udemy.com/course/r-programming/)
     - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
@@ -154,6 +154,6 @@ When developing websites using HTML and CSS, code is written inside a text edito
 - For R Shiny, code can be written in RStudio (see above). Similar for Python, Python webapps can be developed in Python IDE's.
 ### Web Dev Courses
 - Paid
-    - Udemy
+    - Udemy (Only buy courses when in sale - which is very often. Courses are in sale about every two-three days, for < 13 euro)
         - [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 ### Web Dev Books
