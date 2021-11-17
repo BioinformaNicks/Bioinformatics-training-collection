@@ -169,7 +169,7 @@ There are numerous sources to learn from, both free and paid. In this section, I
         - [IBM's Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting). It should be noted that this course is offered by IBM, a major computer hardware and software company. This might possibly be one of the better courses out there.
     - edX
         - [Introduction to Linux](https://www.edx.org/course/introduction-to-linux)
-        - [Linux Commands & Shell Scripting)[https://www.edx.org/course/linux-commands-shell-scripting]
+        - [Linux Commands & Shell Scripting](https://www.edx.org/course/linux-commands-shell-scripting)
         - [Shell Programming - A necessity for all Programmers](https://www.edx.org/course/shell-programming-a-necessity-for-all-programmers)
      - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
 
