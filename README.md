@@ -176,7 +176,7 @@ Every coding project will of course be saved in a directory, and often divided i
 ### Templates
 - [Data Science Project Template for R](https://community.rstudio.com/t/data-science-project-template-for-r/3230)
 
-## Package management systems
+## Environment and package management systems
 - [conda](https://docs.conda.io/en/latest/). This is a 'package and environment management system', which basicly means it lets you create 'virtual environments'. This lets you easily switch between versions of installed packages or versions of Python/R/any other supported languagge. In addition, it allows the management of version conflicts (program A might depend on a version of program B, but program C might depend on a different version of program B), by creating two different environments (one where program A and B are installed, one where program B and C are installed). The conda website itself hosts a short tutorial on how to get started with [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html). Conda comes in two versions:
     - [Miniconda](https://docs.conda.io/en/latest/miniconda.html). This is a minimal install, including only the barebones of conda (conda, Python and dependents).
     - [Anaconda](https://docs.conda.io/projects/conda/en/latest/glossary.html#anaconda-glossary). Anaconda includes conda, Python, several open-source scientific packages that are included in the Anaconda Repository and also the Anaconda Navigator (a Graphical User Interface), enabling you to interact with conda without a command line interface.
