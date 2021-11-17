@@ -14,6 +14,8 @@ This page contains a curated list of resources for learning bioinformatic tools 
         - [R Books](#R-Books)
         - [R Packages](#R-Packages)
     - [Bash](#Bash)
+        - [Bash Courses](#Bash-Courses)
+        - [Bash Books](#Bash-Books)
     - [Web Development](#Web-Development)
         - [Web Dev IDE](#Web-Dev-IDE)
         - [Web Dev Courses](#Web-Dev-Courses)
@@ -51,9 +53,9 @@ There are numerous sources to learn from, both free and paid. In this section, I
         - [Learning Python for Data Analysis and Visualisation](https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/)
         - [Python from A-Z: Python for Data Science](https://www.udemy.com/course/python-coding/)
         - [The Complete Python Course: Learn Python By Doing](https://www.udemy.com/course/the-complete-python-course/)
-    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
+    - [Datacamp](https://www.datacamp.com/) has a lot of courses on Python, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
 - Free 
-    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
+    - [Datacamp](https://www.datacamp.com/) has a lot of courses on Python, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
     - [EDx](https://www.edx.org/learn/python)
     - Coursera
         - [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics)
@@ -162,7 +164,7 @@ There are numerous sources to learn from, both free and paid. In this section, I
     - Udemy (Only buy courses when in sale - which is very often. Courses are in sale about every two-three days, for < 13 euro)
         - [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects/)
         - [Linux Administration: The Complete Linux Bootcamp for 2022](https://www.udemy.com/course/master-linux-administration/). This course goes far beyond the required knowledge on bash that is usually necessary for computational biology, but is an exceptional resource for those that want to learn Linux (system) administration.
-    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
+    - [Datacamp](https://www.datacamp.com/) has some courses on Bash, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
 - Free 
     - [Linuxjourney](https://linuxjourney.com/). This is a small text-based course, and for learning Bash, it is advisable to complete the Grasshopper section
     - Coursera
@@ -171,9 +173,18 @@ There are numerous sources to learn from, both free and paid. In this section, I
         - [Introduction to Linux](https://www.edx.org/course/introduction-to-linux)
         - [Linux Commands & Shell Scripting](https://www.edx.org/course/linux-commands-shell-scripting)
         - [Shell Programming - A necessity for all Programmers](https://www.edx.org/course/shell-programming-a-necessity-for-all-programmers)
-     - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
+     - [Datacamp](https://www.datacamp.com/) has some courses on Bash, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
 
 It is to be noted that although Udemy's courses are mostly paid, these are not directly linked to academic institutions. This is an advantage, as it gives instructors the ability to freely design their own courses instead of being bound to academic regulations for the order and content of teaching. Teachers on Udemy are often from the academia, however, and often have a PhD and experience in the field.
+
+### Bash Books
+In this section, several E-books (or hardcover, depending on your liking) will be listed that could be useful references for learning Bash.
+Personally, I prefer online courses for learning and having books as quick references for looking things up quickly.
+It is worth noting that the [Humble Bundle](https://www.humblebundle.com/) periodically has a Programming E-books bundle available for low pricing. These bundles often include books from reputable publishers and authors such as O'Reilly or Wiley. These bundles can include e-books for every programming language, or they can be language-specific.
+
+Good Bash or shell scripting books include:
+- [Classic Shell Scripting](https://www.oreilly.com/library/view/classic-shell-scripting/0596005954/)
+- [Learning the Bash Shell](https://www.oreilly.com/library/view/learning-the-bash/0596009658/)
 
 # Web Development
 Web development is split into front-end and back-end sides. The front-end is what is known as the layout and styling, and what the user sees in their browser. The back-end is focused on the computation behind the website.
