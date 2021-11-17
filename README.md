@@ -13,13 +13,15 @@ This page contains a curated list of resources for learning bioinformatic tools 
         - [R Courses](#R-Courses)
         - [R Books](#R-Books)
         - [R Packages](#R-Packages)
+    - [Bash](#Bash)
     - [Web Development](#Web-Development)
         - [Web Dev IDE](#Web-Dev-IDE)
         - [Web Dev Courses](#Web-Dev-Courses)
         - [Web Dev Books](#Web-Dev-Books)
     - [SQL](#SQL)
+        - Work in progress 
 - [Machine Learning](#Machine-Learning)
-- Bioinformatics Tools
+    - Work in progress 
 
 # Programming
 ## Python
