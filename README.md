@@ -166,6 +166,9 @@ While this repo will introduce you to several tools and concepts, for further re
 - [Pieter Moris's Computational Primer](https://pmoris.github.io/computational-skills/#/). This includes several of the topics introduced in the [General Computational Skills](#General-Computational-Skills) section.
 - [Ming Tommy Tang's Github repo for computational biology](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
 
+Aside from these resources, there is actually a highly recommendable course that includes some of these computational skills:
+- [The Missing Semester of Your Computer Science Education](https://missing.csail.mit.edu/)
+
 ## Project-based workflows
 Every coding project will of course be saved in a directory, and often divided into multiple subdirectories. However, unless you structure it properly, it can get quite messy. Luckily, there are several recommendations for optimal project structure. It should be noted, however, that you are of course free to adapt and improvise as you see fit. This is often in your best interest, as this allows you to easily find back important files.
 
