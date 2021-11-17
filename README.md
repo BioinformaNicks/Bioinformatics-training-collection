@@ -41,14 +41,14 @@ This is thus mostly recommended for data analysis, and not for general programmi
 ### Python Courses
 There are numerous sources to learn from, both free and paid. In this section, I will recommend several tutorials or MOOC's (Massive Open Online Courses).
 - Paid
-    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account.
     - Udemy (Only buy courses when in sale - which is very often. Courses are in sale about every two-three days, for < 13 euro)
         - [Complete Python Bootcamp: From Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp/) - I highly recommend this one. This is a very extensive course, starting at a slow pace but teaching indepth material. 
         - [Learning Python for Data Analysis and Visualisation](https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/)
         - [Python from A-Z: Python for Data Science](https://www.udemy.com/course/python-coding/)
         - [The Complete Python Course: Learn Python By Doing](https://www.udemy.com/course/the-complete-python-course/)
+    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
 - Free 
-    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account.
+    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
     - [EDx](https://www.edx.org/learn/python)
     - Coursera
         - [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics)
@@ -102,14 +102,14 @@ There are numerous sources to learn from, both free and paid. In this section, I
     - Udemy
         - [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/)
         - [R Programming A-Z: R for Data Science](https://www.udemy.com/course/r-programming/)
-    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account.
+    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
 - Free
     - [RStudio Primers](https://rstudio.cloud/learn/primers)
     - [EDX: Data science R Basics](https://www.edx.org/course/data-science-r-basics)
     - Coursera
         - [Genomics Data Science with R](https://www.coursera.org/specializations/genomic-data-science)
         - [Data Science Foundations with R](https://www.coursera.org/specializations/data-science-foundations-r)
-    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. 
+    - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
         
 It is to be noted that although Udemy's courses are mostly paid, these are not directly linked to academic institutions. This is an advantage over EDx and Coursera, as it gives instructors the ability to freely design their own courses instead of being bound to academic regulations for the order and content of teaching. Teachers on Udemy are often from the academia, however, and often have a PhD and experience in the field.  
 ### R Books
