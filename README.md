@@ -247,7 +247,7 @@ Some resources on learning how to use [Git](https://git-scm.com/) are:
 - [Git Gud Primer by Pieter Moris](https://pmoris.github.io/git-gud/#/)
 
 ## Containerization
-Crudely, you can think of containerization tools as a mixture between an environment & package management system, and a virtual machine (I hope not to offend anyone with this very crude and non-nuanced definition). Basicly, containerization tools allow you to package (and run) a script (or software tool) in a container (duh). This container is an isolated sandbox that runs on your host (local) operating system (OS). The container will not only contain the application itself, but also all of its dependencies, including a (stripped-down) operating system. There are several benefits to this. Firstly, this enables you to run software without installing it or the dependencies. Next, it also allows you to transfer applications across operating systems, and makes your script or application reproducible on other machines than your own.
+Briefly, containerization tools allow you to package (and run) a script (or software tool) in a container (duh). This container is an isolated sandbox that runs on your host (local) operating system (OS). The container will not only contain the application itself, but also all of its dependencies, including a (stripped-down) operating system. There are several benefits to this. Firstly, this enables you to run software without installing it or the dependencies. Next, it also allows you to transfer applications across operating systems, and makes your script or application reproducible on other machines than your own.
 
 The most popular containerization tool is [Docker](https://www.docker.com/).
 
