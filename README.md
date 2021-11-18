@@ -189,6 +189,7 @@ Good Bash or shell scripting books include:
 - [Learning the Bash Shell](https://www.oreilly.com/library/view/learning-the-bash/0596009658/)
 
 # Web Development
+Disclaimer: I'm not very well-versed in web development, and only have experience in using R Shiny. Approach this section with a grain of salt.
 Web development is split into front-end and back-end sides. The front-end is what is known as the layout and styling, and what the user sees in their browser. The back-end is focused on the computation behind the website.
 For front-end development, HTML and CSS are the most popular languages. HTML gives basic functionality, and provides structure and layout to the website. It is the backbone to the website. CSS, however, performs the styling for the website. Another popular tool is JavaScript, which extends the functionality enormously.
 For back-end development, more general purpose programming languages can be used (R, Python, Java, etc). SQL Databases are often used as well.
