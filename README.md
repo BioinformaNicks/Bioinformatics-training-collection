@@ -255,6 +255,12 @@ Some resources on learning how to use [Docker](https://www.docker.com/) are:
 - [Pieter Moris's Primer on Docker](https://pmoris.github.io/docker-primer/)
 - [Docker Curriculum for Beginners](https://docker-curriculum.com/)
 
+## Cloud Computing for Bioinformatics
+This section was added per suggestion by [Lynn Langit](https://github.com/lynnlangit).
+
+- [Lynnlangit's Google Cloud Platform for Bioinformatics](https://github.com/lynnlangit/gcp-for-bioinformatics)
+- [Public Clouds for Genomics](https://github.com/lynnlangit/TeamTeri/tree/master/5_Public_Cloud_Genomics)
+
 # Bioinformatics Tools and Resources
 While it would be an impossible(!) task to introduce all Bioinformatics tools in this section, I will refer the reader to some tutorials for common Bioinformatics applications.
 
