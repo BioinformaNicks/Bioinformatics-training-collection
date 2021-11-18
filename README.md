@@ -197,6 +197,8 @@ For back-end development, more general purpose programming languages can be used
 Currently, several methods exist to reduce the need for front-end development knowledge by using back-end languages to develop the front-end.
 These include:
 - [R Shiny](https://shiny.rstudio.com/) - This R package will allow the usage of R code to develop HTML+CSS+JavaScript elements, while the R code handles the back-end computations.
+- [Dash](https://github.com/plotly/dash) - This is a Python package is similar to Shiny to build a dashboard app.  
+- [Streamlit](https://github.com/streamlit/streamlit) - Another Python package to build a dashboard app is similar to Shiny.  
 - [Django](https://www.djangoproject.com/) - This Python package is similar to Shiny, although it requires more HTML+CSS+JavaScript knowledge. It is, however, more scalable.
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/) - This Python package, although very similar to Django, is more lightweight and easy to use. It is, however, not as scalable.
 ### Web Dev IDE
