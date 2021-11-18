@@ -167,7 +167,8 @@ There are numerous sources to learn from, both free and paid. In this section, I
     - [Datacamp](https://www.datacamp.com/) has some courses on Bash, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
 - Free 
     - [Sandbox.bio](https://sandbox.bio/). This webbrowser-based application lets users interactively learn the use of several common Bioinformatics tools, without requiring an installation. Aside from that, it lets you learn the terminal / bash commands in an interactive manner. Similar webbrowser-based applications might exist, and might be worth a google-fu.
-    - [Linuxjourney](https://linuxjourney.com/). This is a small text-based course, and for learning Bash, it is advisable to complete the Grasshopper section
+    - [Linuxjourney](https://linuxjourney.com/). This is a small text-based course, and for learning Bash, it is advisable to complete the Grasshopper section.
+    - [Ryan's Linux tutorial](https://ryanstutorials.net/linuxtutorial/). Great resource for beginners.
     - Coursera
         - [IBM's Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting). It should be noted that this course is offered by IBM, a major computer hardware and software company. This might possibly be one of the better courses out there.
     - edX
