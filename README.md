@@ -132,7 +132,13 @@ Out of these books, the following are highly recommended.
 - [R For Data Science](https://r4ds.had.co.nz/)
 - [Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
 - [Advanced R](https://adv-r.hadley.nz/)
-- [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+- [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)  
+
+This is a course about learning R, basic statistics and genomics by Prof. Rafael Irizarry and Prof. Michael Love. 
+- [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/)
+
+Another great learning material about R and transcripomics by Prof. Dan Beiting  
+- [DIY.transcriptomics](https://diytranscriptomics.com/)  
 ### R Packages
 These packages extend the capabilities of the language, adding new functionality.
 In this section, I will first sum up some of the more specific and useful bioinformatics-related packages, and then link to a general list of great packages.
@@ -144,8 +150,8 @@ Additionally, it is worth mentioning that [Reticulate](https://rstudio.github.io
 - Similar to [Biopython](https://biopython.org/), there is also an extensive repository for open-source computational biology software packages curated by the [Bioconductor](https://www.bioconductor.org/) initiative.
 - [naniar](https://cran.r-project.org/web/packages/naniar/vignettes/getting-started-w-naniar.html). This package is very useful for exploring your data, and checking missingness of your data.
 - [patchwork](https://patchwork.data-imaginist.com/). This package allows combining and arranging separate ggplots in an easy manner.
-- The [Shiny](https://shiny.rstudio.com/) package provides easy web application development, mostly in dashboard format, without the need for prior HTML/CSS/Javascript knowledge. It will handle every aspect of web development: the layout, structure and graphics using Shiny code, and the computation using R code.
-
+- The [Shiny](https://shiny.rstudio.com/) package provides easy web application development, mostly in dashboard format, without the need for prior HTML/CSS/Javascript knowledge. It will handle every aspect of web development: the layout, structure and graphics using Shiny code, and the computation using R code.  
+- [ggpubr](https://rpkgs.datanovia.com/ggpubr/). The **ggpubr** package provides some easy-to-use functions for creating and customizing ggplot2- based publication ready plots.  
 - Compilation of more specific R packages:
     - [Awesome R](https://github.com/qinwf/awesome-R)
 
