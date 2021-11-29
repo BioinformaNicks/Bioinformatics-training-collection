@@ -56,7 +56,9 @@ There are numerous sources to learn from, both free and paid. In this section, I
     - [Datacamp](https://www.datacamp.com/) has a lot of courses on Python, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
 - Free 
     - [Datacamp](https://www.datacamp.com/) has a lot of courses on Python, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
-    - [EDx](https://www.edx.org/learn/python)
+    - edX
+        - [Learn Python](https://www.edx.org/learn/python)
+        - [Using Python for research](http://rafalab.github.io/pages/harvardx.html)
     - Coursera
         - [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics)
         - [Python for Applied Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai)
@@ -115,7 +117,9 @@ There are numerous sources to learn from, both free and paid. In this section, I
     - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
 - Free
     - [RStudio Primers](https://rstudio.cloud/learn/primers)
-    - [EDX: Data science R Basics](https://www.edx.org/course/data-science-r-basics)
+    - edX
+        - [Data science R Basics](https://www.edx.org/course/data-science-r-basics)
+        - [Data Analysis for the Life Sciences](http://rafalab.github.io/pages/harvardx.html)
     - Coursera
         - [Genomics Data Science with R](https://www.coursera.org/specializations/genomic-data-science)
         - [Data Science Foundations with R](https://www.coursera.org/specializations/data-science-foundations-r)
@@ -147,7 +151,7 @@ Additionally, it is worth mentioning that [Reticulate](https://rstudio.github.io
 - [naniar](https://cran.r-project.org/web/packages/naniar/vignettes/getting-started-w-naniar.html). This package is very useful for exploring your data, and checking missingness of your data.
 - [patchwork](https://patchwork.data-imaginist.com/). This package allows combining and arranging separate ggplots in an easy manner.
 - The [Shiny](https://shiny.rstudio.com/) package provides easy web application development, mostly in dashboard format, without the need for prior HTML/CSS/Javascript knowledge. It will handle every aspect of web development: the layout, structure and graphics using Shiny code, and the computation using R code.  
-- [ggpubr](https://rpkgs.datanovia.com/ggpubr/). The **ggpubr** package provides some easy-to-use functions for creating and customizing ggplot2- based publication ready plots.  
+- The [ggpubr](https://rpkgs.datanovia.com/ggpubr/) package provides some easy-to-use functions for creating and customizing ggplot2- based publication ready plots.  
 - Compilation of more specific R packages:
     - [Awesome R](https://github.com/qinwf/awesome-R)
 
