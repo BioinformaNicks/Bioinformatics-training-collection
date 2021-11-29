@@ -133,12 +133,8 @@ Out of these books, the following are highly recommended.
 - [Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
 - [Advanced R](https://adv-r.hadley.nz/)
 - [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)  
-
-This is a course about learning R, basic statistics and genomics by Prof. Rafael Irizarry and Prof. Michael Love. 
-- [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/)
-
-Another great learning material about R and transcripomics by Prof. Dan Beiting  
-- [DIY.transcriptomics](https://diytranscriptomics.com/)  
+- [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/). This is a course about learning R, basic statistics and genomics by Prof. Rafael Irizarry and Prof. Michael Love. 
+- [DIY.transcriptomics](https://diytranscriptomics.com/). Another great learning material about R and transcripomics by Prof. Dan Beiting.
 ### R Packages
 These packages extend the capabilities of the language, adding new functionality.
 In this section, I will first sum up some of the more specific and useful bioinformatics-related packages, and then link to a general list of great packages.
