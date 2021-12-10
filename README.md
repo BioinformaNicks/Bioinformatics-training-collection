@@ -191,6 +191,7 @@ Personally, I prefer online courses for learning and having books as quick refer
 It is worth noting that the [Humble Bundle](https://www.humblebundle.com/) periodically has a Programming E-books bundle available for low pricing. These bundles often include books from reputable publishers and authors such as O'Reilly or Wiley. These bundles can include e-books for every programming language, or they can be language-specific.
 
 Good Bash or shell scripting books include:
+- [Data Science at the Commandline](https://datascienceatthecommandline.com/). Free goodness.
 - [Classic Shell Scripting](https://www.oreilly.com/library/view/classic-shell-scripting/0596005954/)
 - [Learning the Bash Shell](https://www.oreilly.com/library/view/learning-the-bash/0596009658/)
 
