@@ -136,6 +136,10 @@ Out of these books, the following are highly recommended.
 - [R For Data Science](https://r4ds.had.co.nz/)
 - [Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
 - [Advanced R](https://adv-r.hadley.nz/)
+In addition, several other great books have been published for R.
+The [Big Book of R](https://www.bigbookofr.com/) by [Oscar Baruffa](https://twitter.com/OscarBaruffa) is a comprehensive repository of **free** books for R, divided into different subjects and fields.
+
+In addition, these bioinformatics domain-specific books could be of use:
 - [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)  
 - [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/). This is a course about learning R, basic statistics and genomics by Prof. Rafael Irizarry and Prof. Michael Love. 
 - [DIY.transcriptomics](https://diytranscriptomics.com/). Another great learning material about R and transcripomics by Prof. Dan Beiting.
@@ -228,6 +232,8 @@ While this repo will introduce you to several tools and concepts, for further re
 
 Aside from these resources, there is actually a highly recommendable course that includes some of these computational skills:
 - [The Missing Semester of Your Computer Science Education](https://missing.csail.mit.edu/)
+In addition, the following book is Bioinformatics-specific and is a very comprehensive resource for some of these computational skills:
+- [Bioinformatics Data Skills](https://www.oreilly.com/library/view/bioinformatics-data-skills/9781449367480/)
 
 ## Project-based workflows
 Every coding project will of course be saved in a directory, and often divided into multiple subdirectories. However, unless you structure it properly, it can get quite messy. Luckily, there are several recommendations for optimal project structure. It should be noted, however, that you are of course free to adapt and improvise as you see fit. This is often in your best interest, as this allows you to easily find back important files.
