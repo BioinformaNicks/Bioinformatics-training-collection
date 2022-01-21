@@ -136,7 +136,7 @@ Out of these books, the following are highly recommended.
 - [R For Data Science](https://r4ds.had.co.nz/)
 - [Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
 - [Advanced R](https://adv-r.hadley.nz/)
-In addition, several other great books have been published for R.
+
 The [Big Book of R](https://www.bigbookofr.com/) by [Oscar Baruffa](https://twitter.com/OscarBaruffa) is a comprehensive repository of **free** books for R, divided into different subjects and fields.
 
 In addition, these bioinformatics domain-specific books could be of use:
