@@ -117,6 +117,7 @@ There are numerous sources to learn from, both free and paid. In this section, I
     - [Datacamp](https://www.datacamp.com/) has a lot of courses on R, and you can get a free 3 months premium through a Github Educational account. Use at own moral risk: DataCamp has been implicated in a sexual harassment scandal.
 - Free
     - [RStudio Primers](https://rstudio.cloud/learn/primers)
+    - [STAT447 by the University of Illinois](https://stat447.com/lectures/03-rbasics/). A recent course by [Dirk Eddelbuettel](https://stat.illinois.edu/directory/profile/deddel) of the Department of Statistics, University of Illinois which provides a dive into R basics and beyond, in addition to providing some information on the RStudio environment and [General Computational Skills](#General-Computational-Skills).
     - edX
         - [Data science R Basics](https://www.edx.org/course/data-science-r-basics)
         - [Data Analysis for the Life Sciences](http://rafalab.github.io/pages/harvardx.html)
@@ -235,7 +236,7 @@ Aside from these resources, there is actually a highly recommendable course that
 In addition, the following book is Bioinformatics-specific and is a very comprehensive resource for some of these computational skills:
 - [Bioinformatics Data Skills](https://www.oreilly.com/library/view/bioinformatics-data-skills/9781449367480/)
 
-A recent course by [Dirk Eddelbuettel](https://stat.illinois.edu/directory/profile/deddel of the Department of Statistics, University of Illinois provides an R-focused dive into some computational skills:
+A recent course by [Dirk Eddelbuettel](https://stat.illinois.edu/directory/profile/deddel) of the Department of Statistics, University of Illinois provides an R-focused dive into some computational skills:
 - https://stat447.com/lectures/
 
 ## Project-based workflows
