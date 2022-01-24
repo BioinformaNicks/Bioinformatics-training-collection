@@ -235,6 +235,9 @@ Aside from these resources, there is actually a highly recommendable course that
 In addition, the following book is Bioinformatics-specific and is a very comprehensive resource for some of these computational skills:
 - [Bioinformatics Data Skills](https://www.oreilly.com/library/view/bioinformatics-data-skills/9781449367480/)
 
+A recent course by [Dirk Eddelbuettel](https://stat.illinois.edu/directory/profile/deddel of the Department of Statistics, University of Illinois provides an R-focused dive into some computational skills:
+- https://stat447.com/lectures/
+
 ## Project-based workflows
 Every coding project will of course be saved in a directory, and often divided into multiple subdirectories. However, unless you structure it properly, it can get quite messy. Luckily, there are several recommendations for optimal project structure. It should be noted, however, that you are of course free to adapt and improvise as you see fit. This is often in your best interest, as this allows you to easily find back important files.
 
