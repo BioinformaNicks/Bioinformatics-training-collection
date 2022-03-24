@@ -285,6 +285,7 @@ This section was added per suggestion by [Lynn Langit](https://github.com/lynnla
 While it would be an impossible(!) task to introduce all Bioinformatics tools in this section, I will refer the reader to some tutorials for common Bioinformatics applications.
 
 Resources:
+- [Harvard Bioinformatics Core](https://hbctraining.github.io/main/). Collection of training resources for bioinformatics, including R/Python/Bash workshops and Next Generation Sequencing stuff.
 - [Sandbox.bio](https://sandbox.bio/). This webbrowser-based application lets users interactively learn the use of several common Bioinformatics tools, without requiring an installation.
 - [An Introduction to Applied Bioinformatics](http://readiab.org/introduction.html). This book gives users a brief introduction to Bioinformatics.
 - [A Primer for Computational Biology](https://open.oregonstate.education/computationalbiology/). This book teaches Unix/Linux (Bash), Python and R to Computational Biologists in a very concise manner.
