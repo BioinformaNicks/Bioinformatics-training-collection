@@ -23,7 +23,11 @@ This page contains a curated list of resources for learning bioinformatic tools 
     - [SQL](#SQL)
         - Work in progress 
 - [Machine Learning](#Machine-Learning)
-    - Work in progress 
+    - [Machine Learning in R](#Machine-Learning-in-R)
+        - [ML in R Courses](#ML-in-R-Courses)
+        - [ML in R Books](#ML-in-R-Books)
+        - [ML in R Packages](#ML-in-R-Packages)
+    - [Machine Learning in Python](#Machine-Learning-in-Python)
 - [General Computational Skills](#General-Computational-Skills)
 - [Bioinformatics Tools and Resources](#Bioinformatics-Tools-and-Resources)
 
@@ -223,6 +227,11 @@ When developing websites using HTML and CSS, code is written inside a text edito
     - Udemy (Only buy courses when in sale - which is very often. Courses are in sale about every two-three days, for < 13 euro)
         - [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 ### Web Dev Books
+
+# Machine Learning
+## Machine Learning in R
+
+## Machine Learning in Python
 
 # General Computational Skills
 Aside from just learning how to program, there are a couple of general (often also called DevOps) tools that make the life of a programmer easier. These tools often focus on reproducibility of results, and teach/improve best practices in coding. For example, these tools range from workflow languages that automate input/output across different programming languages, to easy-to-use package management systems.
