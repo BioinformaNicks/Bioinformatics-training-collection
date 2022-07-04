@@ -258,6 +258,11 @@ Every coding project will of course be saved in a directory, and often divided i
 ### Templates
 - [Data Science Project Template for R](https://community.rstudio.com/t/data-science-project-template-for-r/3230)
 
+## Reproducibility and automated workflows
+In addition to working in a project-based workflow, a reproducible workflow language could be of benefit. This means creating reproducible and automated pipelines with languages such as Make, Snakemake, Nextflow, etc. 
+
+- [Bioinformatics pipeline from the bottom up](https://ricomnl.com/blog/bottom-up-bioinformatics-pipeline/). This post gives a great example of how to go from scripts to fully automated and reproducible pipeline. From scripts, to Make, to Nextflow.
+
 ## Environment and package management systems
 - [conda](https://docs.conda.io/en/latest/). This is a 'package and environment management system', which basicly means it lets you create 'virtual environments'. This lets you easily switch between versions of installed packages or versions of Python/R/any other supported languagge. In addition, it allows the management of version conflicts (program A might depend on a version of program B, but program C might depend on a different version of program B), by creating two different environments (one where program A and B are installed, one where program B and C are installed). The conda website itself hosts a short tutorial on how to get started with [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html). Conda comes in two versions:
     - [Miniconda](https://docs.conda.io/en/latest/miniconda.html). This is a minimal install, including only the barebones of conda (conda, Python and dependents).
