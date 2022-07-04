@@ -367,6 +367,5 @@ In this section, several E-books (or hardcover, depending on your liking) will b
 ### Useful statistics packages
 In this subsection, I will provide a few programming  packages I find useful for Statistics.
 - Python
-    - 
 - R
     - [dabestr](https://cran.r-project.org/web/packages/dabestr/vignettes/using-dabestr.html). Package to create estimation plots.
