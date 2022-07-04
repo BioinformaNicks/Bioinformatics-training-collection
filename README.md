@@ -30,6 +30,7 @@ This page contains a curated list of resources for learning bioinformatic tools 
     - [Machine Learning in Python](#Machine-Learning-in-Python)
 - [General Computational Skills](#General-Computational-Skills)
 - [Bioinformatics Tools and Resources](#Bioinformatics-Tools-and-Resources)
+- [Statistics](#Statistics)
 
 # Programming
 ## Python
@@ -66,7 +67,6 @@ There are numerous sources to learn from, both free and paid. In this section, I
     - Coursera
         - [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics)
         - [Python for Applied Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai)
-
 It is to be noted that although Udemy's courses are mostly paid, these are not directly linked to academic institutions. This is an advantage, as it gives instructors the ability to freely design their own courses instead of being bound to academic regulations for the order and content of teaching. Teachers on Udemy are often from the academia, however, and often have a PhD and experience in the field.
 
 ### Python Books
@@ -80,6 +80,8 @@ It is worth noting that the [Humble Bundle](https://www.humblebundle.com/) perio
 - [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
 - [Bioinformatics Programming Using Python](https://www.oreilly.com/library/view/bioinformatics-programming-using/9780596804725/)
 - [Mastering Python for Bioinformatics](https://www.oreilly.com/library/view/mastering-python-for/9781098100872/)
+- [Jean de Dieu Nyandwi's Python Intro Tutorial](https://nyandwi.com/machine_learning_complete/00_intro_to_python/)
+- [Jean de Dieu Nyandwi's Numpy Tutorial](https://nyandwi.com/machine_learning_complete/01_intro_to_Numpy_for_data_computation/)
 
 ### Python Packages
 These packages extend the capabilities of the language, adding new functionality.
@@ -142,6 +144,10 @@ Out of these books, the following are highly recommended.
 - [Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
 - [Advanced R](https://adv-r.hadley.nz/)
 
+The [Extending R](https://www.routledge.com/Extending-R/Chambers/p/book/9781498775717) book could be of use for advanced R users.
+
+The [R Workflow](https://www.fharrell.com/post/rflow) book by Frank Harrell provides a great overview of how to structure a workflow in R, focused on data analysis. See #General-Computational-Skills for more information.
+
 The [Big Book of R](https://www.bigbookofr.com/) by [Oscar Baruffa](https://twitter.com/OscarBaruffa) is a comprehensive repository of **free** books for R, divided into different subjects and fields (thanks for the suggestion [Mikhael Dito Manurung](https://twitter.com/mikhaeldito313))
 
 In addition, these bioinformatics domain-specific books could be of use:
@@ -160,11 +166,14 @@ Additionally, it is worth mentioning that [Reticulate](https://rstudio.github.io
 - [naniar](https://cran.r-project.org/web/packages/naniar/vignettes/getting-started-w-naniar.html). This package is very useful for exploring your data, and checking missingness of your data.
 - [patchwork](https://patchwork.data-imaginist.com/). This package allows combining and arranging separate ggplots in an easy manner.
 - The [Shiny](https://shiny.rstudio.com/) package provides easy web application development, mostly in dashboard format, without the need for prior HTML/CSS/Javascript knowledge. It will handle every aspect of web development: the layout, structure and graphics using Shiny code, and the computation using R code.  
-- The [ggpubr](https://rpkgs.datanovia.com/ggpubr/) package provides some easy-to-use functions for creating and customizing ggplot2- based publication ready plots.  
+- The [ggpubr](https://rpkgs.datanovia.com/ggpubr/) package provides some easy-to-use functions for creating and customizing ggplot2- based publication ready plots.
+- The [Targets](https://books.ropensci.org/targets/) package to maintain a reproducible workflow. See #General-Computational-Skills for further explanation.
+- The [Here](https://here.r-lib.org/) package to simplify file referencing in a project-based workflow. See #General-Computational-Skills for further explanation.
+- The [Rio](https://cran.r-project.org/web/packages/rio/vignettes/rio.html) package is a swiss-army knife package for data import & export.
 - Compilation of more specific R packages:
     - [Awesome R](https://github.com/qinwf/awesome-R)
 
-# Bash
+## Bash
 Although some will hate me for this, I usually refer to Bash as both a Unix/Linux terminal and as a 'form' of a programming language, or rather, 'a command language'.
 So first things first: what is a terminal? A terminal, or shell, is a program that takes commands and sends them to the operating system to perform. If you're familiar with Microsoft Windows CMD or PowerShell, this is an example of a shell or terminal, although much less powerful and easy to use as Bash. Now Bash (Bourne Again Shell) is the default terminal shell for most Linux/Unix-based operating systems, and it is very very powerful. There are some alternatives, such as Zsh, which are gaining popularity (due to amazing plugins for it, google it), however bash is still the most commonly used. Most Bioinformatics or Computational Biology programs have been written to be executable on a command line interface (the terminal, or shell), usually often in bash. In addition, bash comes with a lot of pre-installed applications that might be considered command languages by itself as well (awk, sed, for example), making it very powerful. Furthermore, it's functionality is extendable with other software packages.
 
@@ -204,7 +213,10 @@ Good Bash or shell scripting books include:
 - [Classic Shell Scripting](https://www.oreilly.com/library/view/classic-shell-scripting/0596005954/)
 - [Learning the Bash Shell](https://www.oreilly.com/library/view/learning-the-bash/0596009658/)
 
-# Web Development
+Small resource for learning Awk:
+- [Awk in 20 minutes](https://ferd.ca/awk-in-20-minutes.html).
+
+## Web Development
 Disclaimer: I'm not very well-versed in web development, and only have experience in using R Shiny. Approach this section with a grain of salt.
 Web development is split into front-end and back-end sides. The front-end is what is known as the layout and styling, and what the user sees in their browser. The back-end is focused on the computation behind the website.
 For front-end development, HTML and CSS are the most popular languages. HTML gives basic functionality, and provides structure and layout to the website. It is the backbone to the website. CSS, however, performs the styling for the website. Another popular tool is JavaScript, which extends the functionality enormously.
@@ -228,10 +240,21 @@ When developing websites using HTML and CSS, code is written inside a text edito
         - [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 ### Web Dev Books
 
-# Machine Learning
-## Machine Learning in R
+# SQL
+SQL is a language for handling tabular databases.
 
-## Machine Learning in Python
+The [Whodunnit](https://mystery.knightlab.com/) game provides a fun interactive way to learn SQL.
+
+## Machine Learning
+
+- [Microsoft's ML for Beginners](https://github.com/microsoft/ML-For-Beginners). Microsoft hosts a course for learning the basic ML concepts, using both Python and R.
+- [Jean de Dieu Nyandwi's ML Intro](https://nyandwi.com/machine_learning_complete/11_ml_fundamentals/).
+- [Jean de Dieu Nyandwi's Complete ML Package](https://nyandwi.com/machine_learning_complete/outline/).
+### Machine Learning in R
+
+- [Microsoft's Tidymodels in R Course](https://docs.microsoft.com/en-us/learn/paths/machine-learning-with-r/).
+
+### Machine Learning in Python
 
 # General Computational Skills
 Aside from just learning how to program, there are a couple of general (often also called DevOps) tools that make the life of a programmer easier. These tools often focus on reproducibility of results, and teach/improve best practices in coding. For example, these tools range from workflow languages that automate input/output across different programming languages, to easy-to-use package management systems.
@@ -262,6 +285,12 @@ Every coding project will of course be saved in a directory, and often divided i
 In addition to working in a project-based workflow, a reproducible workflow language could be of benefit. This means creating reproducible and automated pipelines with languages such as Make, Snakemake, Nextflow, etc. 
 
 - [Bioinformatics pipeline from the bottom up](https://ricomnl.com/blog/bottom-up-bioinformatics-pipeline/). This post gives a great example of how to go from scripts to fully automated and reproducible pipeline. From scripts, to Make, to Nextflow.
+- [Kbroman's Minimal Make Tutorial](https://kbroman.org/minimal_make/). This post gives a small introduction to Make workflows.
+- [Reproducible and Trustworthy Workflows for Data Science](https://ubc-dsci.github.io/reproducible-and-trustworthy-workflows-for-data-science/README.html). Course notes for a course on reproducible data science workflows.
+- [Frank Harrell's R Workflow](https://www.fharrell.com/post/rflow). R-specific Workflow example overview, complementary to the full book.
+- [Frank Harrell's R Workflow Book](https://hbiostat.org/rflow). R-specific Workflow example full book.
+- [Descostesn's Workflows Notes](https://github.com/descostesn/workflows-notes).
+- [Goeke Lab's Minimal Bioinformatics Workflows](https://github.com/GoekeLab/bioinformatics-workflows). This repo provides a great set of minimal example implementations of common bioinformatics workflows.
 
 ## Environment and package management systems
 - [conda](https://docs.conda.io/en/latest/). This is a 'package and environment management system', which basicly means it lets you create 'virtual environments'. This lets you easily switch between versions of installed packages or versions of Python/R/any other supported languagge. In addition, it allows the management of version conflicts (program A might depend on a version of program B, but program C might depend on a different version of program B), by creating two different environments (one where program A and B are installed, one where program B and C are installed). The conda website itself hosts a short tutorial on how to get started with [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html). Conda comes in two versions:
@@ -305,3 +334,39 @@ Resources:
 - [A Primer for Computational Biology](https://open.oregonstate.education/computationalbiology/). This book teaches Unix/Linux (Bash), Python and R to Computational Biologists in a very concise manner.
 - [Twitter Thread on Bioinformatics Resources](https://twitter.com/randomdan1el/status/1392007202202865664)
 - [Ming Tommy Tang's Bioinformatics One-Liner Repo](https://github.com/crazyhottommy/bioinformatics-one-liners). Useful list of one-liners that are highly functional.
+- [Ossu's Self-Taught Path to Bioinformatics Repo](https://github.com/ossu/bioinformatics). Useful repo that's similar to this, listing a lot of courses.
+- [Lswhiteh's Bioinformatics Repo](https://github.com/Lswhiteh/bioinfo-links). Useful repo that's similar to Ming Tommy Tang's resources/one-liner repo's.
+- [Rafalab's Teaching](http://rafalab.github.io/pages/teaching.html). This page lists some courses for learning Data Science for the Life Sciences.
+- [Hellmuth's Blogpost on FACS Data Analysis](https://jchellmuth.com/posts/FACS-with-R/). Specific post about learning FACS data analysis with R.
+- [Orchestrating Single-cell Analyses in R](https://bioconductor.org/books/release/OSCA/). Book on single-cell analysis using the Bioconductor environment in R.
+- [Orchestrating Single-cell Analyses in R Advanced](http://bioconductor.org/books/3.14/OSCA.advanced/index.html). Advanced single-cell analysis using the Bioconductor environment in R.
+- [Tidy Transcriptomics Workshop](https://github.com/tidytranscriptomics-workshops). Course notes on Transcriptomics in the Tidyverse. Also includes single-cell transcriptomics.
+
+# Statistics
+Of course, statistics are a neccessary tool for any researcher, bioinformatician or not. This section provides some recommendations for statistical learning.
+
+### Statistics Courses
+There are numerous sources to learn from, both free and paid. In this section, I will recommend several tutorials or MOOC's (Massive Open Online Courses).
+- Paid
+
+- Free 
+    - [Introduction to Statistical Learning](https://www.statlearning.com/online-course). Paired with the book, it is one of the best online courses for learning statistics and machine learning.
+    - [Khan Academy's Statistics and Probability](https://www.khanacademy.org/math/statistics-probability). Beginner-oriented introduction to statistics.
+
+### Statistics Books
+In this section, several E-books (or hardcover, depending on your liking) will be listed that could be useful references for learning Statistics.
+- Paid
+    - [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
+- Free
+    - [Introduction to Statistical Learning](https://www.statlearning.com/). One of the best books for Statistical Learning, including Machine Learning. This book is mostly R-focused, but provides all necessary concepts. 
+    - [Frank Harrell's Biostatistics for Biomedical Research](http://hbiostat.org/bbr/). This book provides a great introduction to statistics for biomedical researchers.
+    - [Claus Wilke's Data Visualization](https://clauswilke.com/dataviz/). Although this book is not necessarily about statistics, it provides great recommendations for how to visualize data (distributions, proportions, etc). Presenting data in a clean, proper, and most of all, interpretable, fashion will be a great addition to statistical knowledge.
+    - [Primer on Non-Parametric Bootstrap](https://wormlabcaltech.github.io/mprsq/stats_tutorial/nonparametric_bootstrapping.html). This provides a small primer on the Non-Parametric Bootstrap.
+    - [Katherine Hoffman's Creating Patient Timelines](https://www.khstats.com/blog/trt-timelines/trt-timelines/). Blogpost on how to graph patient timelines in R.
+
+### Useful statistics packages
+In this subsection, I will provide a few programming  packages I find useful for Statistics.
+- Python
+    - 
+- R
+    - [dabestr](https://cran.r-project.org/web/packages/dabestr/vignettes/using-dabestr.html). Package to create estimation plots.
