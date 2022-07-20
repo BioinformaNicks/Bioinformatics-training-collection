@@ -245,6 +245,12 @@ SQL is a language for handling tabular databases.
 
 The [Whodunnit](https://mystery.knightlab.com/) game provides a fun interactive way to learn SQL.
 
+Other resources:
+- [SQLBolt](https://sqlbolt.com/)
+- [Mode SQL Tutorial](https://mode.com/sql-tutorial/)
+- [w3schools](https://www.w3schools.com/sql/)
+- [SelectStar](https://selectstarsql.com/)
+
 ## Machine Learning
 
 - [Microsoft's ML for Beginners](https://github.com/microsoft/ML-For-Beginners). Microsoft hosts a course for learning the basic ML concepts, using both Python and R.
